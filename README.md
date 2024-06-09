@@ -8,13 +8,13 @@
 
 <p align="left"> <a href="https://www.linkedin.com/in/abhay34/" target="blank"><img src="https://img.shields.io/twitter/follow/abhay?logo=twitter&style=for-the-badge" alt="shivamrai" /></a> </p>
 
-- 🌱 I’m currently learning *React.js*
+- 🌱 I’m currently working in *Accenture*
 
 - 📫 How to reach me *yunno88006@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/shivam92300499" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shivamrai" height="30" width="40" /></a>
+<a href="https://twitter.com/shivam92300499" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shivamrai" height="30" width="40" /></a>
 <a href="www.linkedin.com/in/shivam-rai-5a3694249" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/shivam-rai-5a3694249" height="30" width="40" /></a>
 </p>
 
