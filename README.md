@@ -1,4 +1,4 @@
-[![MasterHead](legiit-service.s3.amazonaws.com/93e4fef79f1dc82d1925af4add34e169/7b140ec924ec2f42c05e1ffa8a91673d.png)]()
+[![MasterHead](https://legiit-service.s3.amazonaws.com/93e4fef79f1dc82d1925af4add34e169/7b140ec924ec2f42c05e1ffa8a91673d.png)]()
 <h1 align="center">Hi 👋, I'm Abhay Sharma</h1>
 <h3 align="center">A passionate MERN developer from India</h3>
 
