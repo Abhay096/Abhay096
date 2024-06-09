@@ -1,4 +1,4 @@
-[![MasterHead](https://https://res.cloudinary.com/upwork-cloud/image/upload/c_scale,w_1000/v1686551432/catalog/1668139655896977408/cpmrlc6wy29lwaebmvz6.jpg)]()
+[![MasterHead](legiit-service.s3.amazonaws.com/93e4fef79f1dc82d1925af4add34e169/7b140ec924ec2f42c05e1ffa8a91673d.png)]()
 <h1 align="center">Hi 👋, I'm Abhay Sharma</h1>
 <h3 align="center">A passionate MERN developer from India</h3>
 
