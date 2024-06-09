@@ -1,5 +1,5 @@
-<div style="background-image: url(https://e1.pxfuel.com/desktop-wallpaper/411/249/desktop-wallpaper-be-your-awesome-mern-stack-developer-by-nishant08111-mern-stack-thumbnail.jpg); background-size: cover; height: 300px; width: 100%; display: flex; justify-content: center; align-items: center;">
-    
+<div >
+    <img src="https://e1.pxfuel.com/desktop-wallpaper/411/249/desktop-wallpaper-be-your-awesome-mern-stack-developer-by-nishant08111-mern-stack-thumbnail.jpg" alt="" style="background-size: cover; height: 300px; width: 100%; display: flex; justify-content: center; align-items: center;">
 </div>
 
 <h1 align="center">Hi 👋, I'm Abhay Sharma</h1>
