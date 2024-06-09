@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivam9638" alt="shivam9638" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/shivamrai" target="blank"><img src="https://img.shields.io/twitter/follow/shivamrai?logo=twitter&style=for-the-badge" alt="shivamrai" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/abhay34/" target="blank"><img src="https://img.shields.io/twitter/follow/abhay?logo=twitter&style=for-the-badge" alt="shivamrai" /></a> </p>
 
 - 🌱 I’m currently learning *React.js*
 
