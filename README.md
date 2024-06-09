@@ -2,7 +2,10 @@
 <h1 align="center">Hi 👋, I'm Abhay Sharma</h1>
 <h3 align="center">A passionate MERN developer from India</h3>
 
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam9638&label=Profile%20views&color=0e75b6&style=flat" alt="shivam9638" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhay096&label=Profile%20views&color=0e75b6&style=flat" alt="shivam9638" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivam9638" alt="shivam9638" /></a> </p>
 
