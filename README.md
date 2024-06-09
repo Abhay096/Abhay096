@@ -1,4 +1,7 @@
-[![MasterHead](https://e1.pxfuel.com/desktop-wallpaper/411/249/desktop-wallpaper-be-your-awesome-mern-stack-developer-by-nishant08111-mern-stack-thumbnail.jpg)]()
+<div style="background-image: url(https://e1.pxfuel.com/desktop-wallpaper/411/249/desktop-wallpaper-be-your-awesome-mern-stack-developer-by-nishant08111-mern-stack-thumbnail.jpg); background-size: cover; height: 300px; width: 100%; display: flex; justify-content: center; align-items: center;">
+    
+</div>
+
 <h1 align="center">Hi 👋, I'm Abhay Sharma</h1>
 <h3 align="center">A passionate MERN developer from India</h3>
 
